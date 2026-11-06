@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Workshop Type"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Workshop Layout"
+	}
+}
